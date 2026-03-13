@@ -1,0 +1,10 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="0" fill="#F7F8FA"/>
+  <rect x="140" y="140" width="920" height="920" rx="42" stroke="#D8DDE6" stroke-width="6" stroke-dasharray="28 18"/>
+  <rect x="380" y="360" width="180" height="180" rx="24" fill="#E9EDF3" stroke="#A8B1BF" stroke-width="8"/>
+  <rect x="640" y="360" width="180" height="180" rx="24" fill="#E9EDF3" stroke="#A8B1BF" stroke-width="8"/>
+  <rect x="380" y="620" width="180" height="180" rx="24" fill="#E9EDF3" stroke="#A8B1BF" stroke-width="8"/>
+  <rect x="640" y="620" width="180" height="180" rx="24" fill="#E9EDF3" stroke="#A8B1BF" stroke-width="8"/>
+  <text x="600" y="900" text-anchor="middle" fill="#8E98A8" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="600">Category</text>
+  <text x="600" y="980" text-anchor="middle" fill="#8E98A8" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="600">Placeholder</text>
+</svg>
