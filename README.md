@@ -2,7 +2,7 @@
 
 OmniCommerce is a commercial full-stack single-store e-commerce platform built with Next.js, TypeScript, and MongoDB.
 
-This project was created as a personal portfolio piece to showcase full-stack architecture, admin system design, commerce workflows, modular backend structure, and product-oriented web application development.
+It was built to showcase a complete commerce system with a customer-facing storefront, admin dashboard, operational tooling, and modular backend architecture suitable for real-world product development and commercial use.
 
 ## Features
 
@@ -28,4 +28,4 @@ This project was created as a personal portfolio piece to showcase full-stack ar
 
 ## License
 
-All rights reserved. This repository is published for portfolio/showcase purposes only and is not licensed for reuse or redistribution.
+All rights reserved. This source code is not licensed for public reuse, redistribution, or resale without prior written permission from the author.
